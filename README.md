@@ -1,0 +1,2 @@
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=KK2-5&show_icons=true&hide=stars&include_all_commits=true&disable_animations=true&hide_title=true&theme=dark&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK2-5&disable_animations=true&stats_format=bytes&layout=compact&theme=dark&hide_border=true" /> |
+| ------------- | ------------- |
